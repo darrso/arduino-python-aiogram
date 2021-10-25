@@ -12,6 +12,8 @@ bttns.add(bttn_red, bttn_yel, bttn_gre)
 # colors - list of inline buttons (each LED has its own)
 red_lamp, yel_lamp, gre_lamp = None, None, None
 colors = [red_lamp, yel_lamp, gre_lamp]
+colors_1 = ["red", "yel", "gre"]
+colors_2 = ["🔴", "🟡", "🟢"]
 count = 0
 for i in range(len(colors)):
     a = types.InlineKeyboardMarkup(row_width=3)

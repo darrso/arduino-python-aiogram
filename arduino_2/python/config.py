@@ -5,5 +5,5 @@ aBaudrate - скорость передачи данных(baud rate. standart: 
 
 """
 bToken = 'your_token'
-aPort = "COM4"
+aPort = "COM3"
 aBaudrate = "9600"

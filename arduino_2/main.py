@@ -27,4 +27,5 @@ async def main():
 
 
 if __name__ == '__main__':
+    print('Бот запущен')
     asyncio.run(main())
